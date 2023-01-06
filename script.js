@@ -1,5 +1,5 @@
 var blocked = `
-    <link href="https://cdn.jsdelivr.net/gh/proudparrot2/cdn/fire.css" rel="stylesheet" type="text/css"/>
+    <link href="https://cdn.jsdelivr.net/gh/xlegends/framed/fire.css" rel="stylesheet" type="text/css"/>
 
   <style>
   
